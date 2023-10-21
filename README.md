@@ -1,3 +1,5 @@
+Add into your Gemfile: `gem "bracket_tree", git: "git@github.com:KerLq/bracket_tree_fixed.git"`
+
 # BracketTree [![Build Status](https://secure.travis-ci.org/agoragames/bracket_tree.png)](http://travis-ci.org/agoragames/bracket_tree)
 
 BracketTree is a bracketing system built around the BracketTree Data Specification,
